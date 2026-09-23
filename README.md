@@ -35,9 +35,3 @@ Company type
 Address
 Extracted data is stored in Python lists.
 Lists are combined into a Pandas DataFrame for structured output.
-
-Future improvements section
-
-GitHub badges (Python, Pandas, etc.)
-
-ChatGPT can make mistakes. Check important info.
